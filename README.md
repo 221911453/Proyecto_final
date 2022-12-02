@@ -1,4 +1,4 @@
-## Alma Dania Valencia Vazquez / Proyecto Final
+## Alma Dania Valencia Vazquez / Proyecto Final / Fabrica de lavaderos "el tigre"
 
 Esta es una aplicación que contiene CRUD de Login con API funcionando y un Carrito de Compras Funcionando.
 Una vez decargado el proyecto deveran inigresar los sigientes comandos de instalacion en la terminal, dentro de la carpeta del proyecto:
